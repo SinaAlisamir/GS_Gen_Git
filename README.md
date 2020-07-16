@@ -4,7 +4,7 @@ Paper explaining the concept:
 
 (Submitted, waiting for acceptance ... or not!)
 
-![NewGS](/home/sina/Documents/Codes/GS_Gen_Git/NewGS.png)
+![NewGS](https://github.com/SinaAlisamir/GS_Gen_Git/blob/master/NewGS.png)
 
 Dependencies:
 
