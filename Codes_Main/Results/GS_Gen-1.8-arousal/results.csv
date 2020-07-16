@@ -1,0 +1,3 @@
+Annots,CCC mean dev,CCC var dev,CCC mean dev All,CCC var dev All,CCC mean test,CCC var test,CCC mean test All,CCC var test All,CCC Annot mean test All,CCC Annot var test All,CCC feat mean test All,CCC feat var test All,CCC Annot mean dev All,CCC Annot var dev All,CCC feat mean dev All,CCC feat var dev All
+GoldStandard,0.45799999999999996,0.004,0.513,0.0,0.447,0.003,0.516,0.0,0.753,0.0,0.805,0.0,,,,
+GoldStandard,0.466,0.003,0.519,0.0,,,,,,,,,0.751,0.0,0.836,0.0

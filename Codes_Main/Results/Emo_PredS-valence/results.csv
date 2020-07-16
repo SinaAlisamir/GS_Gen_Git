@@ -1,0 +1,25 @@
+Annots,run_specify,CCC mean train,CCC var train,CCC mean train All,CCC var train All,CCC mean dev,CCC var dev,CCC mean dev All,CCC var dev All,CCC mean test,CCC var test,CCC mean test All,CCC var test All
+GoldStandard,"_Valence_FeatureModel0_LabelModel1_27-12S-[1.9, 0.1]",0.20199999999999999,0.005,0.20199999999999999,0.005,0.212,0.01,0.221,0.0,0.209,0.009000000000000001,0.223,0.0
+GoldStandard,"_Valence_FeatureModel2_LabelModel1_27-12S-[1.9, 0.1]",0.667,0.011,0.667,0.011,0.45,0.012,0.504,0.0,0.375,0.016,0.452,0.0
+GoldStandard,"_Valence_FeatureModel0_LabelModel1_27-12S-[1.8, 0.2]",0.718,0.003,0.718,0.003,0.6990000000000001,0.005,0.7070000000000001,0.0,0.722,0.003,0.726,0.0
+GoldStandard,"_Valence_FeatureModel2_LabelModel1_27-12S-[1.8, 0.2]",0.8640000000000001,0.001,0.8640000000000001,0.001,0.815,0.001,0.8270000000000001,0.0,0.813,0.001,0.818,0.0
+GoldStandard,"_Valence_FeatureModel0_LabelModel1_27-12S-[1.85, 0.15]",0.266,0.005,0.266,0.005,0.263,0.012,0.275,0.0,0.265,0.01,0.284,0.0
+GoldStandard,"_Valence_FeatureModel2_LabelModel1_27-12S-[1.85, 0.15]",0.848,0.001,0.848,0.001,0.418,0.012,0.523,0.0,0.364,0.011,0.424,0.0
+GoldStandard,"_Valence_FeatureModel0_LabelModel1_27-12S-[1.825, 0.175]",0.297,0.004,0.297,0.004,0.28600000000000003,0.009000000000000001,0.299,0.0,0.27699999999999997,0.012,0.298,0.0
+GoldStandard,"_Valence_FeatureModel2_LabelModel1_27-12S-[1.825, 0.175]",0.675,0.006999999999999999,0.675,0.006999999999999999,0.457,0.016,0.531,0.0,0.312,0.017,0.361,0.0
+GoldStandard,"_Valence_FeatureModel0_LabelModel1_27-12S-[1.7, 0.3]",0.603,0.005,0.603,0.005,0.648,0.006,0.667,0.0,0.591,0.005,0.601,0.0
+GoldStandard,"_Valence_FeatureModel2_LabelModel1_27-12S-[1.7, 0.3]",0.89,0.0,0.89,0.0,0.779,0.002,0.8029999999999999,0.0,0.7090000000000001,0.002,0.718,0.0
+GoldStandard,"_Valence_FeatureModel0_LabelModel1_27-12S-[1.6, 0.4]",0.759,0.002,0.759,0.002,0.743,0.004,0.7509999999999999,0.0,0.7609999999999999,0.002,0.767,0.0
+GoldStandard,"_Valence_FeatureModel2_LabelModel1_27-12S-[1.6, 0.4]",0.903,0.001,0.903,0.001,0.8340000000000001,0.002,0.846,0.0,0.81,0.001,0.815,0.0
+GoldStandard,"_Valence_FeatureModel0_LabelModel1_27-12S-[1.5, 0.5]",0.647,0.003,0.647,0.003,0.691,0.005,0.708,0.0,0.63,0.006999999999999999,0.645,0.0
+GoldStandard,"_Valence_FeatureModel2_LabelModel1_27-12S-[1.5, 0.5]",0.865,0.001,0.865,0.001,0.8220000000000001,0.002,0.84,0.0,0.768,0.001,0.775,0.0
+GoldStandard,"_Valence_FeatureModel0_LabelModel1_27-12S-[1.4, 0.6]",0.732,0.004,0.732,0.004,0.695,0.005,0.6990000000000001,0.0,0.718,0.004,0.721,0.0
+GoldStandard,"_Valence_FeatureModel2_LabelModel1_27-12S-[1.4, 0.6]",0.885,0.0,0.885,0.0,0.789,0.003,0.797,0.0,0.81,0.003,0.812,0.0
+GoldStandard,"_Valence_FeatureModel0_LabelModel1_27-12S-[1.3, 0.7]",0.815,0.001,0.815,0.001,0.8,0.002,0.805,0.0,0.816,0.001,0.82,0.0
+GoldStandard,"_Valence_FeatureModel2_LabelModel1_27-12S-[1.3, 0.7]",0.915,0.0,0.915,0.0,0.887,0.001,0.892,0.0,0.895,0.0,0.897,0.0
+GoldStandard,"_Valence_FeatureModel0_LabelModel1_27-12S-[1.2, 0.8]",0.8290000000000001,0.001,0.8290000000000001,0.001,0.821,0.001,0.826,0.0,0.828,0.001,0.833,0.0
+GoldStandard,"_Valence_FeatureModel2_LabelModel1_27-12S-[1.2, 0.8]",0.945,0.0,0.945,0.0,0.905,0.0,0.91,0.0,0.902,0.0,0.904,0.0
+GoldStandard,"_Valence_FeatureModel0_LabelModel1_27-12S-[1.1, 0.9]",0.823,0.001,0.823,0.001,0.816,0.001,0.8190000000000001,0.0,0.818,0.002,0.82,0.0
+GoldStandard,"_Valence_FeatureModel2_LabelModel1_27-12S-[1.1, 0.9]",0.926,0.0,0.926,0.0,0.906,0.0,0.908,0.0,0.905,0.0,0.906,0.0
+GoldStandard,"_Valence_FeatureModel0_LabelModel1_27-12S-[1.0, 1.0]",0.8320000000000001,0.001,0.8320000000000001,0.001,0.809,0.002,0.8109999999999999,0.0,0.8220000000000001,0.001,0.823,0.0
+GoldStandard,"_Valence_FeatureModel2_LabelModel1_27-12S-[1.0, 1.0]",0.934,0.0,0.934,0.0,0.908,0.0,0.91,0.0,0.917,0.0,0.918,0.0
